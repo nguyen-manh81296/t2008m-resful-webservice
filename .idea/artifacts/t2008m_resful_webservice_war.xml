@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="t2008m-resful-webservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>t2008m-resful-webservice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="t2008m-resful-webservice-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="t2008m-resful-webservice:war exploded" />
+    </root>
+  </artifact>
+</component>
